@@ -1,0 +1,107 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #363636;
+    width: 1400px;
+    margin: 1% auto;
+    background-color: #f5f5f5;
+}
+
+
+.one {
+    display: flex;
+    width: 100%;
+    height: 410px;
+    background-color: #f5a96d;
+    position: relative;
+}
+
+.prof_img {
+    display: flex;
+    height: 400px;
+}
+
+.prof_name {
+    padding: 100px;
+    margin: 0;
+    font-size: 25px;
+}
+
+.two {
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    border: 3px solid;
+    padding: 2%;
+}
+
+.container_1 {
+    border: 3px solid;
+    padding: 2%;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h2::after {
+    position: relative;
+    display: flex;
+    margin: 0.5em 0;
+    content: "";
+    width: 2em;
+    height: 3px;
+    background-color: #f5a96d;
+}
+
+.three {
+    margin-top: 20px;
+}
+
+.skills_img {
+    display: flex;
+    height: 300px;
+}
+
+.skills {
+    margin-left: 100px;
+}
+
+.contacts {
+    margin-left: 100px;
+}
+
+.four {
+    margin-top: 20px;
+}
+
+.languages {
+    margin-left: 100px;
+}
+
+.footer {
+    height: 50px;
+    margin-top: 20px;
+    background-color: #ccc;
+}
+
+.footer__section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url(./assets/svg/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.header{
+    height: 50px;
+    background-color: #ccc;
+}
