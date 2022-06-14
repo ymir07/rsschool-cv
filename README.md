@@ -1,1 +1,1 @@
-https://ymir07.github.io/rsschool-cv/cv
+# rsschool-cv
